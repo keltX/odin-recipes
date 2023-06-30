@@ -68,3 +68,12 @@ h1.sub-title{
 .container h2{
     text-align: center;
 }
+.container img{
+    width: 300px;
+    height: auto;
+}
+
+.container ul{
+    width: 50%;
+    margin: 0 auto;
+}
